@@ -1,8 +1,8 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## Operation Starfall
+Project team: Brendan Ossebaar, Mike Huijgens, Leon Kruijer, Amy Nijpels, Sienne Nijdam, Elissa de Waard, Leonita Salgado, Aiden Dupker, Fiona Pronk, Clyde van den Heetkamp, Taffie Verheijen, Mauro Hendriks, Kishan Vogelaar, Teo Paraszkiewicz, Nikki van Wijngaarden, Tom Steiger, Tom Mulder, Mitchel Vonk, Sten Kristel, Jason Siegersma, Jahvairo Monkau
 
 Platform:
-[jullie platfom]
+Unity
 
 ### Korte omschrijving van de game
 ...
@@ -35,11 +35,11 @@ Platform:
 | Logboek (pdf)                         | [Logboek]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
+   [Backlog]: <https://trello.com/b/gVEjIPgv/operation-starfall-product-backlog>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/Retrospective 30-05-2023.pdf>
+   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslag.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [Folder op teams]: <https://teams.microsoft.com/_?culture=en-us&country=us#/school/FileBrowserTabApp/Algemeen?threadId=19:e6mSplOaBlFI_B_VhE8HhGLR1_8wKahTFD7NEMFxfkE1@thread.tacv2&ctx=channel>
    
